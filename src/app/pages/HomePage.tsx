@@ -416,13 +416,13 @@ export function HomePage() {
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
             </Link>
-            <a href="tel:+918012345678" className="w-full sm:w-auto">
+            <a href="tel:+919066330362" className="w-full sm:w-auto">
               <Button
                 size="lg"
                 variant="outline"
                 className="w-full sm:w-auto bg-white/10 border-white/30 text-white hover:bg-white/20 px-6 sm:px-8 py-5 sm:py-6 text-base sm:text-lg active:scale-95 transition-transform"
               >
-                Call Now: +91 80123 45678
+                Call Now: 9066330262
               </Button>
             </a>
           </div>

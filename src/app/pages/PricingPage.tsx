@@ -305,13 +305,13 @@ export function PricingPage() {
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
             </Link>
-            <a href="tel:+918012345678">
+            <a href="tel:+919066330362">
               <Button
                 size="lg"
                 variant="outline"
                 className="bg-white/10 border-white/30 text-white hover:bg-white/20 px-8"
               >
-                Call: +91 80123 45678
+                Call: 9066330262
               </Button>
             </a>
           </div>

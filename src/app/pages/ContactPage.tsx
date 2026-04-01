@@ -63,8 +63,8 @@ export function ContactPage() {
     {
       icon: Phone,
       title: "Phone",
-      details: ["+91 80123 45678", "+91 80123 45679"],
-      action: "tel:+918012345678",
+      details: ["9066330262", "+91 80123 45679"],
+      action: "tel:+919066330362",
     },
     {
       icon: Mail,
@@ -363,13 +363,13 @@ export function ContactPage() {
           <p className="text-xl mb-8 text-white/90">
             Call us now for urgent queries or emergency painting services
           </p>
-          <a href="tel:+918012345678">
+          <a href="tel:+919066330362">
             <Button
               size="lg"
               className="bg-accent hover:bg-accent/90 text-white px-8"
             >
               <Phone className="mr-2 w-5 h-5" />
-              Call: +91 80123 45678
+              Call: 9066330262
             </Button>
           </a>
         </div>

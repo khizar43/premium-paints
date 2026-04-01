@@ -71,14 +71,14 @@ export function Navbar() {
 
           {/* Desktop CTA Buttons */}
           <div className="hidden lg:flex items-center space-x-3">
-            <a href="tel:+918012345678">
+            <a href="tel:+919066330362">
               <Button
                 variant="outline"
                 size="sm"
                 className="flex items-center gap-2"
               >
                 <Phone className="w-4 h-4" />
-                <span>+91 80123 45678</span>
+                <span>9066330262</span>
               </Button>
             </a>
             <Link to="/contact">

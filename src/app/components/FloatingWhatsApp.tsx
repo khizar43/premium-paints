@@ -5,7 +5,7 @@ import { Button } from "./ui/button";
 export function FloatingWhatsApp() {
   const [isExpanded, setIsExpanded] = useState(false);
 
-  const whatsappNumber = "918012345678";
+  const whatsappNumber = "919066330362";
   const defaultMessage = encodeURIComponent(
     "Hi! I'm interested in your painting services. Can you please share more details?"
   );
@@ -80,7 +80,7 @@ export function FloatingWhatsApp() {
       <div className="fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-border shadow-lg sm:hidden">
         <div className="grid grid-cols-2 gap-0">
           <a
-            href="tel:+918012345678"
+            href="tel:+919066330362"
             className="flex items-center justify-center gap-2 py-4 active:bg-secondary transition-colors"
           >
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
@@ -88,7 +88,7 @@ export function FloatingWhatsApp() {
             </div>
             <div className="text-left">
               <div className="text-xs text-muted-foreground">Call Now</div>
-              <div className="text-sm font-semibold">+91 80123 45678</div>
+              <div className="text-sm font-semibold">9066330262</div>
             </div>
           </a>
           <button
